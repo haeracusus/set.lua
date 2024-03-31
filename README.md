@@ -100,9 +100,6 @@ output:
 10
 ```
 
-*P.S: Cardinality function works on tables too!*
-*P.P.S: So does everything else, but this one actually does what it's supposed to when you use it on a table.*
-
 ### Set Unions
 
 To add two Sets together, use the set.union function!
